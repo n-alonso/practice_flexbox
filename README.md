@@ -22,3 +22,5 @@ Given the following instructions:
 >       Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg) to access the design spec.
 >       
 >   Good luck!
+
+Build a simple static page using mainly Flexbox to make sure that it meets the parameters in the Design Spec.
