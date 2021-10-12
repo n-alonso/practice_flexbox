@@ -24,3 +24,5 @@ Given the following instructions:
 >   Good luck!
 
 Build a simple static page using mainly Flexbox to make sure that it meets the parameters in the Design Spec.
+
+To see the result page click [here](https://n-alonso.github.io/Code-Academy-Flexbox-Challenge/).
