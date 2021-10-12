@@ -9,14 +9,14 @@ Given the following instructions:
 >   The images and design spec you need to complete the project are listed below.  
 >   
 >   Images:
->       Logo
->       Bedford Bizarre
->       Berry Blitz
->       Donut
->       Locations
->       Background
->       Myrtle Ave
->       Spiced Rum
+>       Logo  
+>       Bedford Bizarre  
+>       Berry Blitz  
+>       Donut  
+>       Locations  
+>       Background  
+>       Myrtle Ave  
+>       Spiced Rum  
 >       
 >   Design Spec:
 >       Click here to access the design spec.
